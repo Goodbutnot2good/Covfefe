@@ -45,8 +45,5 @@ void loop() {
     Serial.print("Connected to central: ");
     // print the central's MAC address:
     Serial.println(central.address());
-
-
-
   }
 }
