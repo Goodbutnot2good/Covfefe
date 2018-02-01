@@ -1,3 +1,5 @@
 # Muse Camera
 
-Designed to try and move a piece of cardboard based how you respond to the muse device. 
+Muse is a sensor device that connects to your brain and responses to your brain. More details here: http://www.choosemuse.com/
+
+This project consists of arduino code that connects the Muse with a motor. It is designed to use the feedback from the Muse to move the motor in different directions. Made during HACKNY event in 2017. 
